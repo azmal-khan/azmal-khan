@@ -1,3 +1,4 @@
+
 - 👋 Hello, I azmal khan
 - 💻 I'm a frontend Developer
 - 🌱 I’m currently learning PHP, and express with node.js to become a fullastack developer
