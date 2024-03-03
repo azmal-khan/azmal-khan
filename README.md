@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **node.js and DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/azmal-khan](https://github.com/azmal-khan)
-
 - 💬 Ask me about **React, Javascript,**
 
 - 📫 How to reach me **khanmohdazmal001@gmail.com**
