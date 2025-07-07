@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmal-khan&label=Profile%20views&color=0e75b6&style=flat" alt="azmal-khan" /> </p>
 
-- 🔭 My Project [Amazon.in-Clone-Project](https://azmal-khan.github.io/amazon.in-clone-project/)
+- 🔭 My Project http://online-code-editor1.netlify.app
 
 - 🌱 I’m currently learning **DATABASE and DSA**
 
