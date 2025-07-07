@@ -5,11 +5,11 @@
 
 - 🔭 My Project [Amazon.in-Clone-Project](https://azmal-khan.github.io/amazon.in-clone-project/)
 
-- 🌱 I’m currently learning **node.js and DSA**
+- 🌱 I’m currently learning **DATABASE and DSA**
 
 - 💬 Ask me about **React, Javascript,**
 
-- 📫 How to reach me **khanmohdazmal001@gmail.com**
+- 📫 How to reach me **azmal7668@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
