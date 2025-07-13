@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmal-khan&label=Profile%20views&color=0e75b6&style=flat" alt="azmal-khan" /> </p>
 
-- 🔭 My Project http://online-code-editor1.netlify.app
+- 🔭 My Projects:
+-    http://online-code-editor1.netlify.app
+-    https://azmal-portfolio.netlify.app/
+-    
 
 - 🌱 I’m currently learning **DATABASE and DSA**
 
