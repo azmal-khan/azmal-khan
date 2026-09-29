@@ -1,16 +1,18 @@
 <h1 align="center">Hello 👋, I'm Azmal khan</h1>
-<h3 align="center">A passionate Front-end- developer from India</h3>
+<h3 align="center">MCA Student | Java Developer | Revature Trainee </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmal-khan&label=Profile%20views&color=0e75b6&style=flat" alt="azmal-khan" /> </p>
 
 - 🔭 My Projects:
+-    https://cash-flow-nine-chi.vercel.app
+-    https://foodnest-pi.vercel.app
 -    http://online-code-editor1.netlify.app
--    https://azmal-portfolio.netlify.app/
--    
+  
+    
 
-- 🌱 I’m currently learning **DATABASE and DSA**
+- 🌱 I’m currently learning **Java, SQL, DSA, & FUll-Stack Development through Revature**
 
-- 💬 Ask me about **React, Javascript,**
+- 💬 Ask me about **Java, React, Javascript, SQL, DSA, HTML, & CSS**
 
 - 📫 How to reach me **[azmal7668@gmail.com](mailto:azmal7668@gmail.com)**
 
